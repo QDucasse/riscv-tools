@@ -1,6 +1,7 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
-	url = https://github.com/riscv/riscv-isa-sim.git
+	url = https://github.com/QDucasse/riscv-isa-sim.git
+	branch = mem_t_allocate
 [submodule "riscv-pk"]
 	path = riscv-pk
 	url = https://github.com/riscv/riscv-pk.git
